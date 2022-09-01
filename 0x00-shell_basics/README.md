@@ -1,4 +1,5 @@
 #pwd
 
 ##
-This command prints the current/working directory
+This command prints the current/working directory\n
+

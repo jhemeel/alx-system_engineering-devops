@@ -13,3 +13,6 @@
 ## echo -n "" > hello
 ### This command creates a new empty file
 
+## chmod 400 hello
+### This adds only the execute right for the owner
+

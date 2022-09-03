@@ -24,3 +24,6 @@
 
 ##chmod 007
 ### Only others have all access, owner and group:none
+
+## chmod 753 hello
+### octal notation command for -rwxr-x-wx.

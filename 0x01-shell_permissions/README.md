@@ -19,5 +19,5 @@
 ## chmod 774 hello
 ## This command allows owner and group owner to executer the file, but others to just read
 
-##chmod 555 hello
+##chmod 753 hello
 ### This command allows everybody to read,write and exexcute.

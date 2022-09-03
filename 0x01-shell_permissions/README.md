@@ -16,3 +16,5 @@
 ## chmod 744 hello
 ### This adds only the execute right for the owner
 
+## chmod 774 hello
+## This command allows owner and group owner to executer the file, but others to just read

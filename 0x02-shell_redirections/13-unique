@@ -1,2 +1,2 @@
 #!/bin/bzsh
-sort | uniq -u
+ls > sort | uniq -u

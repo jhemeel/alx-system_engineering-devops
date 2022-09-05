@@ -1,0 +1,2 @@
+#!/bin/bzsh
+sort | uniq -u

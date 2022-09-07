@@ -2,4 +2,6 @@
 ##  a script that creates an alias
 
 # echo $PATH | tr -s ":" "\n" | wc -l
-## This command ouput a list of column separated enviromental variables and output the number.
+## This command ouput a list of column separated enviromental variables and output the number
+# printenv | less
+## Acomand that print the enviromental variables.

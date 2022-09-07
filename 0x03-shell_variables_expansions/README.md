@@ -16,3 +16,6 @@
 # export BEST="School"
 ## A command for creating an enviromental variable
 
+# echo $((128+($TRUEKNOWLEDGE)))
+## A command that adds 128 with the value of a variable TRUEKNOWLEDGE
+

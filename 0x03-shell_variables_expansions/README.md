@@ -7,6 +7,6 @@
 # printenv | less
 ## Acomand that print the enviromental variables.
 
-# env | less
+# set | less
 ## A command that list the enviromental, local variables and functions
 

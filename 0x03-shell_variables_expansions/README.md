@@ -10,3 +10,6 @@
 # set | less
 ## A command that list the enviromental, local variables and functions
 
+# BEST="School"
+## A command for craeting a local variable
+

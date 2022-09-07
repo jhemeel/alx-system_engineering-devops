@@ -13,3 +13,6 @@
 # BEST="School"
 ## A command for craeting a local variable
 
+# export BEST="School"
+## A command for creating an enviromental variable
+
